@@ -1,0 +1,24 @@
+# Private resources and generated research artifacts
+data/
+models/
+private-resources/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.joblib
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.zip
+*.pdf
+*.png
+*.jpg
+*.tiff
+*.log
+*.json
+__pycache__/
+*.pyc
+.venv/
+.env
